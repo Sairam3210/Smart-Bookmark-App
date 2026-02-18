@@ -10,7 +10,7 @@ Users can sign in using **Google OAuth only**, add private bookmarks, delete the
 
 ## 🚀 Live Demo
 
-🔗 Vercel URL: 
+🔗 Vercel URL: https://smart-bookmark-app-psi-lake.vercel.app/
 
 📂 GitHub Repo: https://github.com/Sairam3210/Smart-Bookmark-App
 
@@ -257,5 +257,6 @@ This project demonstrates:
 * Production-ready deployment
 
 ---
+
 
 

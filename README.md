@@ -10,9 +10,9 @@ Users can sign in using **Google OAuth only**, add private bookmarks, delete the
 
 ## 🚀 Live Demo
 
-🔗 Vercel URL: *[Add your deployed link here]*
+🔗 Vercel URL: 
 
-📂 GitHub Repo: *[Add your repo link here]*
+📂 GitHub Repo: https://github.com/Sairam3210/Smart-Bookmark-App
 
 ---
 
@@ -257,4 +257,5 @@ This project demonstrates:
 * Production-ready deployment
 
 ---
+
 
